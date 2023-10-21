@@ -32,7 +32,7 @@ function App() {
           <span className="textlight">N</span>
           <span className="textlight">G</span>
         </h1>
-        <p className="text-white">Aku ada hadiah spesial buat kamu</p>
+        <p className="text-white">Aku ada hadiah spesial buat Ayangg</p>
         <button className="mt-5" onClick={() => setNoHide(!noHide)}>
           Klik Disini
         </button>
